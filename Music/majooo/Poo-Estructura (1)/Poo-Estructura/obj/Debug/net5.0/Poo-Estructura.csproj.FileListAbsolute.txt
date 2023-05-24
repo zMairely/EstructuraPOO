@@ -1,0 +1,32 @@
+C:\Users\Upqroo\Desktop\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.exe
+C:\Users\Upqroo\Desktop\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.deps.json
+C:\Users\Upqroo\Desktop\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.runtimeconfig.json
+C:\Users\Upqroo\Desktop\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.runtimeconfig.dev.json
+C:\Users\Upqroo\Desktop\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.dll
+C:\Users\Upqroo\Desktop\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.pdb
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.AssemblyInfo.cs
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.dll
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\refint\Poo-Estructura.dll
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.pdb
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.genruntimeconfig.cache
+C:\Users\Upqroo\Desktop\Poo-Estructura\obj\Debug\net5.0\ref\Poo-Estructura.dll
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.exe
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.deps.json
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.runtimeconfig.json
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.runtimeconfig.dev.json
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.dll
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\bin\Debug\net5.0\Poo-Estructura.pdb
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.AssemblyInfo.cs
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.dll
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\refint\Poo-Estructura.dll
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.pdb
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\Poo-Estructura.genruntimeconfig.cache
+C:\Users\Upqroo\Desktop\majooo\Poo-Estructura (1)\Poo-Estructura\obj\Debug\net5.0\ref\Poo-Estructura.dll
